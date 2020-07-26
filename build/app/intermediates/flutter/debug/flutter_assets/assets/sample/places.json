@@ -1,0 +1,28 @@
+[
+    {
+        "name": "King's Hotel and Resturant",
+        "rating": 3.7,
+        "reviews": 1024,
+        "type": [
+            "North Indian", "Chinese"
+        ],
+        "avg": 150,
+        "coords": {
+            "lat": 21.390,
+            "long": 24.332
+        }
+    },
+    {
+        "name": "Dron Resturant",
+        "rating": 4.1,
+        "reviews": 2644,
+        "type": [
+            "North Indian", "Chinese", "Mughlai"
+        ],
+        "avg": 150,
+        "coords": {
+            "lat": 25.390,
+            "long": 22.332
+        }
+    }
+]
